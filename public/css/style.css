@@ -75,7 +75,7 @@ color: #5f2c52;
 
 .principal {
     display: flex;
-    flex-wrap: wrap;    
+        
 }
 @media (max-width:900px){
     .principal {
